@@ -23,7 +23,7 @@ fastify.route({
     // E.g. check authentication
   },
   handler: async (request, reply) => {
-    return { hello: 'world' };
+    return { hello: 'worl' };
   },
 });
 
